@@ -1,7 +1,7 @@
 //Class in "Delphi" that contains a method of connecting to a database to obtain user data and data insertion.
 
     unit registroclass; 
-     
+     s
     interface
      
     uses
